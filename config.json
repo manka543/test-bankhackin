@@ -1,0 +1,44 @@
+{
+  "color": {
+    "bgColor": [
+      32,
+      40,
+      46
+    ],
+    "startButton": {
+      "normal": [
+        44,
+        70,
+        94
+      ],
+      "hover": [
+        24,
+        50,
+        74
+      ],
+      "pressed": [
+        64,
+        90,
+        114
+      ]
+    },
+    "box": {
+    "white": [255,255,255],
+    "black": [0,0,0],
+    "green": [0,255,0],
+    "blue": [0,0,255],
+    "purple": [153,38,172],
+    "yellow": [252,235,61],
+    "orange": [253,152,2],
+    "red": [255,0,0]
+    }
+  },
+  "font": {
+    "main": "freesansbold.ttf"
+  },
+  "shapes": ["rectangle","square","circle","triangle"],
+  "amountOfBoxes": 4,
+  "sizeOfDisplay": [1275, 760],
+  "fps": 60,
+  "roundTime": 15
+}
